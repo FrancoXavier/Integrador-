@@ -79,7 +79,7 @@ body {text-align: center; font: 300px 20px/1.7; font-family: 'Roboto Condensed',
 .list-trabajos figure {display: flex; justify-content: center; align-items: center; flex-flow:column;}
 /*2 GENERIC ITEMS */
 
-.header { height: 600px; background:url(../Imagenes/Fondo2.jpg) no-repeat center top;
+.header { height: 600px; background:url(../imagenes/Fondo2.jpg) no-repeat center top;
 	background-size: cover;}
 .navbar { height: 65px; background-color: rgb(142, 189, 250) ;}
   .navbar a { color: black ; padding:0 40px ; text-decoration: none;
@@ -96,7 +96,7 @@ p { margin-bottom: 40px;}
    .who p {max-width: 1055px; margin: 0 auto;}
 .Trabajos { background-color: aqua; color: black; } 
 .Trabajos p {max-width: 1055px; margin: 0 auto;}
-.Contacto {background: url(../Imagenes/Fondo1.jpg)no-repeat center top ; background-size:cover;
+.Contacto {background: url(../imagenes/Fondo1.jpg)no-repeat center top ; background-size:cover;
 color: white;}
    .contain{max-width: 1055; margin: 0 auto;}
      
